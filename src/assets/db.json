@@ -1,0 +1,48 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Mario",
+            "email": "mario@gmail.com",
+            "pass": 123
+        },
+        {
+            "id": 2,
+            "name": "Juan",
+            "email": "juan@gmail.com",
+            "pass": "abc"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "name": "Mesa escritorio",
+            "image": "https://assets.leroymerlin.es/is/image/lmes/82273163-0100/mesa-escritorio-maple-cajon-a150-b80.png",
+            "oferta": false,
+            "porc": 0,
+            "price": 12,
+            "description": "Mesa multiusos escritorio",
+            "author": "Mario"
+        },
+        {
+            "id": 2,
+            "name": "Silla cuero",
+            "image": "https://dhb3yazwboecu.cloudfront.net/990/Silla-para-comedor-simil-cuero-marron-oscuro-Bolero-GF955-2-unidades_l.jpg",
+            "oferta": false,
+            "porc": 0,
+            "price": 10.5,
+            "description": "Silla de cuero acolchada",
+            "author": "Mario"
+        },
+        {
+            "id": 3,
+            "name": "Televisión 8K",
+            "image": "https://images.samsung.com/is/image/samsung/latin-qled-q900r-row-qn82q900rbpxpa-frontblack-154871551?$PD_GALLERY_L_JPG$",
+            "oferta": false,
+            "porc": 0,
+            "price": 1201.5,
+            "description": "Televisión 8K con procesador octacore a 2Ghz/nucleo incorporado",
+            "author": "Mario"
+        }
+    ]
+}
